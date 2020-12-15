@@ -4,13 +4,13 @@ version = "0.0.0"
 authors = ["Lewin Probst <info@emirror.de>"]
 edition = "2018"
 license = "MIT"
-description = ""
+description = "Combines the power of yew and vgtk."
 homepage = ""
 documentation = ""
-repository = ""
+repository = "https://github.com/emirror-de/chewie"
 readme = "README.md"
-keywords = [""]
-categories = [""]
+keywords = ["yew, vgtk, gui"]
+categories = ["graphical-user-interfaces"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
