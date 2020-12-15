@@ -1,0 +1,18 @@
+[package]
+name = "chewie"
+version = "0.0.0"
+authors = ["Lewin Probst <info@emirror.de>"]
+edition = "2018"
+license = "MIT"
+description = ""
+homepage = ""
+documentation = ""
+repository = ""
+readme = ""
+keywords = [""]
+categories = [""]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
