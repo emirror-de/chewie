@@ -9,7 +9,7 @@ homepage = ""
 documentation = ""
 repository = "https://github.com/emirror-de/chewie"
 readme = "README.md"
-keywords = ["yew, vgtk, gui"]
+keywords = ["yew", "vgtk", "gui"]
 categories = ["graphical-user-interfaces"]
 
 
